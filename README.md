@@ -1,2 +1,9 @@
 # NFT-Badge-Generator
 Future of Creator Economy 🚀🚀🚀
+
+## Problem 🧐🧐
+Today's creator economy doesn't provide a highway for fans to directly interact with the creators & neither do creators have a proper reward and monetization system in place for both the creator and fans to feel enriched after interactions. Fans can become superfans and directly pay the creators but then there's not differentiating factor between the top 10 fans and the others who are also paying but might not be ardent fans. Web3 can elevate the status of fans and NFT will take it a step ahead.
+
+## Solution 💎💎
+
+Bitclout created the concept of creator tokens, NFT Badges will add status symbol to it. Web2 platforms like Facebook or Patreon have badges like Top Fan, Top Commentors and so on for people to flex. Web3 platform like Bitclout has tokens which fans can buy to support their creators and reap monetary rewards on possible token appreciation in future. NFT Badges will combine them and add more. To think of it, lets take an example. Lets say we consider a Youtuber, Mr. Beast say, who uses our platform for creating multiple kinds of badges like top fan, top comments, best comments, longest supporter and so on and mint them on blockchain so that they can be used across multiple platforms by then fans to showcase their support. Add to that the inherent value of the NFT in secondary markets and hence monetary benefits for the fans as well the creator. Now add the concept of adding benefits to each NFT, ie, say a NFT badge will come will 3 benefits, get 5 min screentime with Mr. Beast, 1-1 for any discussion with Mr. Beast and angel investment opporunity from him which provides benefits outside tokens. Finally add fractionalization to the mix, so that fans can resell parts of the NFT Badge in secondary markets, like say 5 min screentime whch gives him and creator monetary benefits and the buyer value.
